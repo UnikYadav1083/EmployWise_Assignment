@@ -70,7 +70,7 @@ function Login() {
                     </div> :
                     <></>
                 }
-                <BottomWarning to="/" label="Dont Not Already have an account" buttonText="SignUp" />
+                <BottomWarning to="/" label="Don't have an account" buttonText="SignUp" />
             </div>
         </div>);
 }
